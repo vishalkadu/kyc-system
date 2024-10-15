@@ -1,0 +1,166 @@
+2024-10-04 16:20:29,420 - INFO - Processing KYC for person image: ../data/subject-k.jpg
+2024-10-04 16:20:29,461 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 16:20:29,462 - INFO - Brightness score: 190.648871875
+2024-10-04 16:20:29,463 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 16:20:29,463 - INFO - Overall quality score: 0.2
+2024-10-04 16:20:30,001 - INFO - Text extraction successful
+2024-10-04 16:20:30,001 - INFO - Card identified as PAN card
+2024-10-04 16:20:31,024 - INFO - Face match result: False, Distance: 0.8605678570756873
+2024-10-04 16:21:19,139 - INFO - Processing KYC for person image: ../data/Subject.png
+2024-10-04 16:21:19,169 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 16:21:19,170 - INFO - Brightness score: 190.648871875
+2024-10-04 16:21:19,172 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 16:21:19,172 - INFO - Overall quality score: 0.2
+2024-10-04 16:21:19,676 - INFO - Text extraction successful
+2024-10-04 16:21:19,676 - INFO - Card identified as PAN card
+2024-10-04 16:21:19,963 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-04 17:13:11,873 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:13:11,900 - INFO - Blur score (Laplacian variance): 79.7517072916656
+2024-10-04 17:13:11,901 - INFO - Brightness score: 190.648609375
+2024-10-04 17:13:11,902 - INFO - Edge density score: 0.03662708333333333
+2024-10-04 17:13:11,902 - INFO - Overall quality score: 0.2
+2024-10-04 17:13:12,452 - INFO - Text extraction successful
+2024-10-04 17:13:12,453 - INFO - Card identified as PAN card
+2024-10-04 17:13:13,425 - INFO - Face match result: False, Distance: 0.8546601534479714
+2024-10-04 17:16:58,521 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:16:58,547 - INFO - Blur score (Laplacian variance): 2808.499659438963
+2024-10-04 17:16:58,548 - INFO - Brightness score: 234.24819660798715
+2024-10-04 17:16:58,549 - INFO - Edge density score: 0.08557734929078015
+2024-10-04 17:16:58,549 - INFO - Overall quality score: 0.8
+2024-10-04 17:17:30,044 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:17:30,066 - INFO - Blur score (Laplacian variance): 6140.337784424755
+2024-10-04 17:17:30,066 - INFO - Brightness score: 191.38571613571614
+2024-10-04 17:17:30,067 - INFO - Edge density score: 0.07514245014245015
+2024-10-04 17:17:30,067 - INFO - Overall quality score: 1.0
+2024-10-04 17:21:02,251 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:21:02,279 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 17:21:02,279 - INFO - Brightness score: 190.648871875
+2024-10-04 17:21:02,280 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 17:21:02,280 - INFO - Overall quality score: 0.2
+2024-10-04 17:21:02,832 - INFO - Text extraction successful
+2024-10-04 17:21:02,833 - INFO - Card identified as PAN card
+2024-10-04 17:21:03,109 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-04 17:26:30,855 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:26:30,907 - INFO - Blur score (Laplacian variance): 172.87554836432352
+2024-10-04 17:26:30,908 - INFO - Brightness score: 142.8384617512905
+2024-10-04 17:26:30,910 - INFO - Edge density score: 0.046175030236915125
+2024-10-04 17:26:30,910 - INFO - Overall quality score: 0.5
+2024-10-04 17:26:31,865 - INFO - Text extraction successful
+2024-10-04 17:26:31,865 - INFO - Card identified as PAN card
+2024-10-04 17:26:32,496 - INFO - Face match result: True, Distance: 0.48491015398717097
+2024-10-04 17:28:18,620 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 17:28:18,667 - INFO - Blur score (Laplacian variance): 172.87554836432352
+2024-10-04 17:28:18,668 - INFO - Brightness score: 142.8384617512905
+2024-10-04 17:28:18,670 - INFO - Edge density score: 0.046175030236915125
+2024-10-04 17:28:18,670 - INFO - Overall quality score: 0.5
+2024-10-04 17:28:19,615 - INFO - Text extraction successful
+2024-10-04 17:28:19,615 - INFO - Card identified as PAN card
+2024-10-04 17:28:20,211 - INFO - Face match result: False, Distance: 0.6590670665363898
+2024-10-04 18:15:33,143 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 18:15:33,176 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 18:15:33,177 - INFO - Brightness score: 190.648871875
+2024-10-04 18:15:33,179 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 18:15:33,179 - INFO - Overall quality score: 0.2
+2024-10-04 18:15:33,706 - INFO - Text extraction successful
+2024-10-04 18:15:33,706 - INFO - Card identified as PAN card
+2024-10-04 18:15:34,007 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-04 18:34:38,992 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 18:34:39,013 - INFO - Blur score (Laplacian variance): 545.7278432001466
+2024-10-04 18:34:39,014 - INFO - Brightness score: 152.35158359857252
+2024-10-04 18:34:39,014 - INFO - Edge density score: 0.05123336226851852
+2024-10-04 18:34:39,014 - INFO - Overall quality score: 1.0
+2024-10-04 18:34:39,337 - INFO - Text extraction successful
+2024-10-04 18:34:39,337 - INFO - Card identified as Aadhaar card
+2024-10-04 18:34:39,505 - INFO - Face match result: True, Distance: 0.0
+2024-10-04 19:43:01,174 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 19:43:01,212 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 19:43:01,213 - INFO - Brightness score: 190.648871875
+2024-10-04 19:43:01,214 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 19:43:01,214 - INFO - Overall quality score: 0.2
+2024-10-04 19:43:01,787 - INFO - Text extraction successful
+2024-10-04 19:43:01,787 - INFO - Card identified as PAN card
+2024-10-04 19:43:02,082 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-04 19:43:19,412 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-04 19:43:19,445 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-04 19:43:19,445 - INFO - Brightness score: 190.648871875
+2024-10-04 19:43:19,446 - INFO - Edge density score: 0.036652083333333335
+2024-10-04 19:43:19,446 - INFO - Overall quality score: 0.2
+2024-10-04 19:43:19,903 - INFO - Text extraction successful
+2024-10-04 19:43:19,903 - INFO - Card identified as PAN card
+2024-10-04 19:43:20,851 - INFO - Face match result: False, Distance: 0.8605678570756873
+2024-10-10 12:40:41,965 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-10 12:40:41,999 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-10 12:40:42,000 - INFO - Brightness score: 190.648871875
+2024-10-10 12:40:42,001 - INFO - Edge density score: 0.036652083333333335
+2024-10-10 12:40:42,001 - INFO - Overall quality score: 0.2
+2024-10-10 12:40:42,991 - INFO - Text extraction successful
+2024-10-10 12:40:42,991 - INFO - Card identified as PAN card
+2024-10-10 12:40:43,268 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-12 20:23:44,251 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-12 20:23:44,278 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-12 20:23:44,279 - INFO - Brightness score: 190.648871875
+2024-10-12 20:23:44,280 - INFO - Edge density score: 0.036652083333333335
+2024-10-12 20:23:44,280 - INFO - Overall quality score: 0.2
+2024-10-12 20:23:44,789 - INFO - Text extraction successful
+2024-10-12 20:23:44,789 - INFO - Card identified as PAN card
+2024-10-12 20:23:45,080 - INFO - Face match result: True, Distance: 0.08273711903022275
+2024-10-12 20:29:53,401 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-12 20:29:53,481 - INFO - Blur score (Laplacian variance): 685.3445189314534
+2024-10-12 20:29:53,482 - INFO - Brightness score: 177.72362336233974
+2024-10-12 20:29:53,484 - INFO - Edge density score: 0.1382515917363835
+2024-10-12 20:29:53,484 - INFO - Overall quality score: 1.0
+2024-10-12 20:29:54,114 - INFO - Text extraction successful
+2024-10-12 20:31:55,867 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-12 20:31:55,909 - INFO - Blur score (Laplacian variance): 685.3445189314534
+2024-10-12 20:31:55,910 - INFO - Brightness score: 177.72362336233974
+2024-10-12 20:31:55,912 - INFO - Edge density score: 0.1382515917363835
+2024-10-12 20:31:55,912 - INFO - Overall quality score: 1.0
+2024-10-12 20:31:56,521 - INFO - Text extraction successful
+2024-10-12 20:32:21,743 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-12 20:32:21,758 - INFO - Blur score (Laplacian variance): 2209.174506063414
+2024-10-12 20:32:21,759 - INFO - Brightness score: 171.69714219562726
+2024-10-12 20:32:21,759 - INFO - Edge density score: 0.09015716127693038
+2024-10-12 20:32:21,759 - INFO - Overall quality score: 1.0
+2024-10-12 20:32:22,026 - INFO - Text extraction successful
+2024-10-12 20:32:22,026 - INFO - Card identified as PAN card
+2024-10-12 20:32:22,128 - ERROR - No face detected in one or both images
+2024-10-12 20:32:32,712 - INFO - Processing KYC for person image: person_photo_temp.png
+2024-10-12 20:32:32,736 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-12 20:32:32,737 - INFO - Brightness score: 190.648871875
+2024-10-12 20:32:32,738 - INFO - Edge density score: 0.036652083333333335
+2024-10-12 20:32:32,738 - INFO - Overall quality score: 0.2
+2024-10-12 20:32:33,205 - INFO - Text extraction successful
+2024-10-12 20:32:33,205 - INFO - Card identified as PAN card
+2024-10-12 20:32:33,488 - INFO - Face match result: False, Distance: 0.693410630685835
+2024-10-12 20:55:57,934 - INFO - Processing KYC for person image: ../data/person_photo_temp.png
+2024-10-12 20:55:57,977 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-12 20:55:57,978 - INFO - Brightness score: 190.648871875
+2024-10-12 20:55:57,979 - INFO - Edge density score: 0.036652083333333335
+2024-10-12 20:55:57,979 - INFO - Overall quality score: 0.2
+2024-10-12 20:55:58,521 - INFO - Text extraction successful
+2024-10-12 20:55:58,521 - INFO - Card identified as PAN card
+2024-10-12 20:55:59,527 - INFO - Face match result: False, Distance: 0.8605678570756873
+2024-10-12 20:56:43,800 - INFO - Processing KYC for person image: ../data/person_photo_temp.png
+2024-10-12 20:56:43,840 - INFO - Blur score (Laplacian variance): 444.2904778126165
+2024-10-12 20:56:43,841 - INFO - Brightness score: 177.72077852971674
+2024-10-12 20:56:43,842 - INFO - Edge density score: 0.06824823991704415
+2024-10-12 20:56:43,842 - INFO - Overall quality score: 1.0
+2024-10-12 20:56:44,405 - INFO - Text extraction successful
+2024-10-12 20:56:44,405 - INFO - Card identified as PAN card
+2024-10-12 20:56:44,816 - INFO - Face match result: True, Distance: 0.06417345578429169
+2024-10-12 20:58:18,675 - INFO - Processing KYC for person image: ../data/person_photo_temp.png
+2024-10-12 20:58:18,691 - INFO - Blur score (Laplacian variance): 2209.174506063414
+2024-10-12 20:58:18,692 - INFO - Brightness score: 171.69714219562726
+2024-10-12 20:58:18,692 - INFO - Edge density score: 0.09015716127693038
+2024-10-12 20:58:18,692 - INFO - Overall quality score: 1.0
+2024-10-12 20:58:18,973 - INFO - Text extraction successful
+2024-10-12 20:58:18,974 - INFO - Card identified as PAN card
+2024-10-12 20:58:19,066 - ERROR - No face detected in one or both images
+2024-10-12 21:21:48,717 - INFO - Processing KYC for person image: ../data/person_photo_temp.png
+2024-10-12 21:21:48,740 - INFO - Blur score (Laplacian variance): 79.71655625
+2024-10-12 21:21:48,741 - INFO - Brightness score: 190.648871875
+2024-10-12 21:21:48,742 - INFO - Edge density score: 0.036652083333333335
+2024-10-12 21:21:48,742 - INFO - Overall quality score: 0.2
+2024-10-12 21:21:49,286 - INFO - Text extraction successful
+2024-10-12 21:21:49,286 - INFO - Card identified as PAN card
+2024-10-12 21:21:49,565 - INFO - Face match result: True, Distance: 0.08273711903022275
