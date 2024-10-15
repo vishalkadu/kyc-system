@@ -50,10 +50,7 @@ def main():
         with col1:
             st.image(load_image(id_card), caption="ID Card", use_column_width=True)
         with col2:
-            if person_photo_option == 'Capture Photo via Webcam':
-                st.image(person_photo, caption="Your Photo", use_column_width=True)
-            else:
-                st.image(load_image(person_photo), caption="Uploaded Photo", use_column_width=True)
+            st.image(load_image(person_photo), caption="Your Photo", use_column_width=True)
 
         st.markdown("---")
 
@@ -63,15 +60,13 @@ def main():
             id_card_path = "../data/id_card_temp.png"
             person_photo_path = "../data/person_photo_temp.png"
 
+            # Write ID card data to file
             with open(id_card_path, "wb") as f:
                 f.write(id_card.getbuffer())
 
-            # For captured photo, we need to convert it to bytes
-            if person_photo_option == 'Capture Photo via Webcam':
-                person_photo.save(person_photo_path)
-            else:
-                with open(person_photo_path, "wb") as f:
-                    f.write(person_photo.getbuffer())
+            # Write person photo data to file
+            with open(person_photo_path, "wb") as f:
+                f.write(person_photo.getbuffer())
 
             # Perform KYC verification
             with st.spinner("Processing ID verification..."):

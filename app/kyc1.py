@@ -10,7 +10,7 @@ import pytesseract
 
 class KYCVerificationSystem:
     def __init__(self, output_dir='kyc_results'):
-        self.min_card_quality_score = 0.1
+        self.min_card_quality_score = 0.3
         self.output_dir = output_dir
 
         # Create output directory if it doesn't exist
@@ -122,7 +122,7 @@ class KYCVerificationSystem:
             matches = face_recognition.compare_faces(
                 [person_encodings[0]],
                 card_encodings[0],
-                tolerance=0.6
+                tolerance=0.8
             )
 
             # Calculate face distance (lower means more similar)
@@ -162,6 +162,7 @@ class KYCVerificationSystem:
                     'status': 'failed',
                     'reason': 'Unable to identify card type'
                 }
+                logging.info(f"failed unable to find card type KYC for person image: {person_image_path}")
                 return result
 
             # Verify face match
@@ -170,6 +171,7 @@ class KYCVerificationSystem:
                     'status': 'failed',
                     'reason': 'Face verification failed'
                 }
+                logging.info(f"Failed KYC for person image: {person_image_path}")
                 return result
 
             # All verifications passed
@@ -178,6 +180,7 @@ class KYCVerificationSystem:
                 'card_type': card_info['card_type'],
                 'verification_complete': True
             }
+            logging.info(f"Passed KYC for person image: {person_image_path}")
             return result
 
         except Exception as e:
