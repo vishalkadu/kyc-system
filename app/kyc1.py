@@ -10,7 +10,7 @@ import pytesseract
 
 class KYCVerificationSystem:
     def __init__(self, output_dir='kyc_results'):
-        self.min_card_quality_score = 0.3
+        self.min_card_quality_score = 0.2
         self.output_dir = output_dir
 
         # Create output directory if it doesn't exist

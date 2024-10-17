@@ -1,0 +1,7 @@
+app/__pycache__/kyc1.cpython-311.pyc
+data/person_photo_temp.png
+data/.*
+app/kyc_results/kyc_verification.log
+data/id_card_temp.png
+data/person_photo_temp.png
+kyc_results/kyc_verification.log
